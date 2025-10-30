@@ -1,8 +1,8 @@
 This repository contains IoCs and YARA rules related to Threatray's threat research, which can be found here:
- 🔗 https://www.threatray.com/blog
+https://www.threatray.com/blog
 
 For updates, research highlights, and analysis insights, follow us on X (Twitter):
- 🐦 https://x.com/ThreatrayLabs
+https://x.com/ThreatrayLabs
 
 The repository is organized per post, which includes the research-specific IoCs, rules, and any associated scripts.
 
