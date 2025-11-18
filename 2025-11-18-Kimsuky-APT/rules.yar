@@ -27,6 +27,8 @@ rule Kimsuky_Memload {
         hash2 = "0be26482a47e696774686dd19be90ee8220e17c739a85e6b114d4a81d32b3cfc"
 
     strings:
+        $rc4_key = "#RsfsetraW#@EsfesgsgAJOPj4eml;"
+
         $rc4_simd = {
             8D 41 F8            // lea     eax, [rcx-8]
             66 0F 6E C0         // movd    xmm0, eax
@@ -48,5 +50,5 @@ rule Kimsuky_Memload {
         }
 
     condition:
-        $rc4_simd
+        all of them
 }
