@@ -1,0 +1,142 @@
+Dropper Samples (Stage1):
+
+ConvertMate - 08b9f93000512b45f8c2e8d3d6624536b366e67c40fd4b958db58e3a1d129c3d - AMARYLLIS SIGNAL LTD
+ConvertMate - 35be0a7628fbf5401730c01b0aaa1c0033e6993349b02135a1fbcb7adb7d5250 - AMARYLLIS SIGNAL LTD
+ConvertMate - 46c9f63648d1a0fab977ec7b921ee1111a85402591984b12bd41391ecb2f5d6e - AMARYLLIS SIGNAL LTD
+ConvertMate - 5ac2041454d46f138c2aa75a15f43372600143bf952ac656aa96288442a56946 - AMARYLLIS SIGNAL LTD
+ConvertMate - 5ae866358a4d24c8f3b81bf6790af2f90401bc07e0b07494f9867d95fb4b48f3 - AMARYLLIS SIGNAL LTD
+ConvertMate - 64aaadd4c13d1b3e0daae138e5cc879c62b9e73787d4271567f46fbf5b5f440f - AMARYLLIS SIGNAL LTD
+ConvertMate - 6d0d319dd6330e1f5fcd05471932c2ce6449e50ed1c5e5ed9a5320997af6c24e - AMARYLLIS SIGNAL LTD
+ConvertMate - 7744b67501a840ba687c641b01e9924d40a034b02582e0f233174e11a85480d3 - AMARYLLIS SIGNAL LTD
+ConvertMate - 926ef1a9ac8c380b53068b2eda7a1cf8e15bd661b24a422276051debd979af17 - AMARYLLIS SIGNAL LTD
+ConvertMate - 92cf26ac4fbce70f5e2b65dde547bd27e45d923dcf51a70c9e073024f671969e - AMARYLLIS SIGNAL LTD
+ConvertMate - a7d18f0ef0ee06ae80801e4afb6cd6c2342dcf7b4a81e5c3ff8431dfcd5e7081 - AMARYLLIS SIGNAL LTD
+ConvertMate - aead247067b61aca1a46a33029b5715d5a5eb645b509f2b6bb34d42675d1bb01 - AMARYLLIS SIGNAL LTD
+ConvertMate - b6b633f32933b2f3001cc64c452c32dbda8478e6d7405f53dcde30f3630f0867 - AMARYLLIS SIGNAL LTD
+ConvertMate - 005a493e6315c464d011a0ed9d2522ffa211b21bb64fdbabac6ec4f997332b67 - Not Signed
+ConvertMate - 02d79569284dec8c55b237e06df93ce7cf89d1dfb13cb74f9acdd91cfe4cd7cf - Not Signed
+ConvertMate - 280de13fe20e332f2e6072b9b0e2bdfefcd292a1d03a11df23965d459a9ece66 - Not Signed
+ConvertMate - 2bcc309dfc161f2e7d21cf6a061f40e818294225111d84676afd8b3af0d7caf5 - Not Signed
+ConvertMate - 2f06132b64988738d4049712656f77c8292ed7dc0d858539353e96764cfef3f0 - Not Signed
+ConvertMate - 3986d55e8889cf4319f3c93d9d3859b0362743a5920227d9429b1e6ccff5742d - Not Signed
+ConvertMate - 3ffb50dc2e0241231e8e4caeb6729c7299d86c56fcaabba8eb18d10212c4e1e5 - Not Signed
+ConvertMate - 470e61283d384b537c2a47ed6bf352307c26cf07a4fafa81d4b55c19d6c21f71 - Not Signed
+ConvertMate - 5af067a7753d494beca532877bfc19e60d8c7e1b942eb0d5e26478d0eeb21bbb - Not Signed
+ConvertMate - 9896eaf0ab368c2e5eb3450d4fb348d1bc4ac5daeb83c58f9c6b62186d32d71c - Not Signed
+ConvertMate - c56869b8975add40679605aa28aa5703cbb744260af609d48c9cffafd45b07b3 - Not Signed
+ConvertMate - cd77acaf5416cddf89a0caab3c88e7d7efb9a682115de5f8b04c895b74e30b40 - Not Signed
+ConvertMate - db9839d1b63a05ed48586851dbee5267d130feca4a315757ae3125db430f4789 - Not Signed
+OLO         - 937b2e27e1a74cd993b063e656bade657f723dc285d16a8f8c9ff931e14f916b - FORTALISE LTD
+OLO         - 9d705ce8338b55bc29589e7b9bc059d42a3bd8cf385ff6317b41f8f2ff4b8472 - FORTALISE LTD
+PDFGoat     - bbf03a57fac7f56ab52ae74c92554a1ba84d2805acd6d5ce830706d838f8ac90 - DORNOVI LTD
+PDFSkills   - 1994b6c8c30b4346f6b00da12fc161eb73210af08b914a1c4768b109b234f2df - BLACK INDIGO LTD
+PDFSkills   - b595b6e13ece475044bf8105cb3870f9a35e7b6f3b949e3e815657410f9c7cb1 - BLACK INDIGO LTD
+PDFSkills   - ef35e3d843043518bacc8245bf32cc2dda251b5a61b6fe48a9c0a94eab46142b - BLACK INDIGO LTD
+PDFSkills   - 06f595b17685322f38f1e5229d275ffe902c78e906df0a1e67ed9febaf890805 - Impresan Solutions OÜ
+PDFSkills   - 58316cc40bd941e464b03030eedd77843ea56f8b98c0dcd3e4bc462d66a97d0b - Impresan Solutions OÜ
+PDFSkills   - f1773b399bbcfb8656c9ae9dd8f7a79c281ab04c4127e8cb8376400f45dd22be - Impresan Solutions OÜ
+PDFSkills   - 2dc119979db7af6999e4e003cdd827987f5d60035049a8f9998a66eda1864453 - RED ROOT LTD
+PDFSkills   - 393be2c55b576ea8e3496dc3eeca922f81a02d87afee5c676efce78b54226ee5 - RED ROOT LTD
+PDFSkills   - 46b1156fed428096e7b83a3250c39680093550b405df4ed8e42264bd8cab14c4 - RED ROOT LTD
+PDFSkills   - 7c1eca52d0e29a05b815a27b077418bf6d3e1217af59d412a2f070f61e8b8648 - RED ROOT LTD
+PDFSkills   - 7e1c1adb3633a8db11794f8625f8d9f0f1238a531abe2e2ee51fef1e4fc6b82c - RED ROOT LTD
+PDFSkills   - 86fa2027927c33c6b97751c02155aac22a192c3f0e013d5541ff691b65698033 - RED ROOT LTD
+PDFSkills   - 8e7bb99acc379b47be1058f5928db35ceae50b3bbf565ff5e61ec0c75b23a2e3 - RED ROOT LTD
+PDFSkills   - 92c7a49c939fb6e72e91ad1f6c9332ec8e7b94928a0eb2590441cc3334d3cf0d - RED ROOT LTD
+PDFSkills   - 99161a12c90c1e9fb60d141123b9cc0042c5d89e04fb41f70e117a6c573090ba - RED ROOT LTD
+PDFSkills   - 9f18870d4ca01d01dce2244be689999349a4b0525962126e033cf2947f4706a4 - RED ROOT LTD
+PDFSkills   - c7169a7928ba955d3fd2426f2c3de550f1830afbeabf4a397eb127e1612e9dda - RED ROOT LTD
+PDFSkills   - cda85c6dd57c719c9b185bca0898026ae76bf834e22cd68eefec29f8d280dff3 - RED ROOT LTD
+PDFSkills   - 09cb8d0d366c0ff8fbb1c3b90f249790b36a53b3fade6f56f419064581b31ae6 - Not Signed
+PDFSkills   - 10da395e287e9114c81bce2a3a81b743049b53d9ca7122e6bc8f711bccbf030c - Not Signed
+PDFSkills   - 2b4b63737a540d342d32a9edca06195b5c028c3b4fb9af578a736d731e7fdddd - Not Signed
+PDFSkills   - 354d046741b4b6a25bcf339ff8a589845b1e31baad91a9ebcfac0aa8ad012a7a - Not Signed
+PDFSkills   - 4b29b7cb379ce3996e84992410c79948ef42c8f01b3a6399357c891121b6a06a - Not Signed
+PDFSkills   - 50e0940dabb6e51bf6363cd1d8d23df9f74f80ffaaacadc45bf54881ebc674eb - Not Signed
+PDFSkills   - 5250a165f3b2b211f6a48cd46c57682bdf7e677f5a7302c251c54a0ba0ba21a0 - Not Signed
+PDFSkills   - 6164048e2f853bde58d18dfec0c3043d05f13cbe11be92b912c01aa8c1f813ac - Not Signed
+PDFSkills   - 94c6ab31754f7b1773ec8e70097f79f7d719df84806de3380f1e1425067ba77f - Not Signed
+PDFSkills   - b6e014cd6745a3fbe5110a85c2292f767dc806a80654d3b02f96771bc4313864 - Not Signed
+PDFSkills   - d8cbe7e32b9abee0278b442aa48641cc992c832212f6ad3865511fc5eebc5b24 - Not Signed
+PDFSkills   - e6fa332c3824c2b4abab12b84883b0b6523baeeea88cb5935668d4d396844ab2 - Not Signed
+PDFSkills   - e78560f3d603c2bf9f3050f6c0d0d7e2e6e29aa51d441dcf2aa31798d040fa73 - Not Signed
+PDFSkills   - f003a344b7d5a301e1b76901f9c7fb91ff91118652b30a802e3273acdbf92f53 - Not Signed
+PDFSkills   - f1f0e3aab9744883d918e21428d5bb0961c43320cd8e5836b2cea1b8e845e16b - Not Signed
+PDFusion    - 1bac9594958f91c8d8703bbca8e12136a34f7e8efc8136afebdee9edc5886932 - KNAF TCHELET LTD
+PDFusion    - ae72764b2cb75ec9b143811feda6f5ebe4f0d028ea34323909ac74062ad7583e - KNAF TCHELET LTD
+ZipThis     - 010333da33d7bd07a40c7776cd8038643cd8f20bcc7a2a7acd58de5cccb61f23 - LIGHTNER TOK LTD
+ZipThis     - 0abfe20240c893b7ee953c2ec9a576a3ec52c8eedec2de6f400890f39918be47 - LIGHTNER TOK LTD
+ZipThis     - 19225218c31b231f0411aedff7ae57db5c63089a1d7a89881d7679159ba3f647 - LIGHTNER TOK LTD
+ZipThis     - 2014c84faf5d71a5a5cc77713e136e1ebe789565aa12ce0731a8add53bca078f - LIGHTNER TOK LTD
+ZipThis     - 265ceecbd847071f758ee35b29729c7d0bf26958c24dbf413ae3921c13c374e2 - LIGHTNER TOK LTD
+ZipThis     - 3d281a7f5c3fbb42f2172a5d305ce6c149551e8ac32eda81bbf6fb85d6653424 - LIGHTNER TOK LTD
+ZipThis     - 61b5ba7682a7b7e399ef481db1c11e607a538bc3cf772bd3b1a11889dc23941c - LIGHTNER TOK LTD
+ZipThis     - 6f144063d9ea2684459d2af6c7484c4eeb70b880359455b80973d21b4629af25 - LIGHTNER TOK LTD
+ZipThis     - 74d9d459bae173fdac842a6104f018d3e5047fef90a12dca473f72965baeb22e - LIGHTNER TOK LTD
+ZipThis     - 7d607ee9acbb7c4747b79f4e891736ad4ab30bf7bbf9b3519ca2b6e6553766dc - LIGHTNER TOK LTD
+ZipThis     - 95c193121b28aa2134725f086f9f0155ff7fba38b1775226d01d5f3c5beb2d04 - LIGHTNER TOK LTD
+ZipThis     - a200fd743aacfda2fd8b16cf813e0bfa36bb764c60817d43b1243f6d60cff87b - LIGHTNER TOK LTD
+ZipThis     - b6951d1f734ec5d659c90993d48ae6ccc3aeeabda442e8ba5d264f1ef45ef5e5 - LIGHTNER TOK LTD
+ZipThis     - bf2f238d09ac55e7baf3d73c80c82d3df935daa6b94adf67a299ad3665e879e2 - LIGHTNER TOK LTD
+ZipThis     - f942fc593f7a60a99718212c60813c9e48e82e0658f9a5ccb561c79bb6c043b3 - LIGHTNER TOK LTD
+ZipThis     - 658bb5ae1caac798f4ab21d715fc80a6f1fcaf88dfe8e0bd10d85432a933dcbe - Not Signed
+ZipThis     - 7e3de5cb1c8b0cf0967b72f3c22869cef0aaeab3e4c71db7bc6a8470b7ecf324 - Not Signed
+ZipThis     - bce3c1f6d35d9dde91ea345e60b50ceb16949b73d4a2df9889a71d2d4a6fcdbd - Not Signed
+ZipThis     - ce89da8589eb85baa77a58149fb311cbd6275242fdc40ffb6f612cc2f3d5b345 - Not Signed
+ZipThis     - e594917447d627259d57fdb5c550abc182360ec7397704fd547cfd6e61d580ca - Not Signed
+
+
+Fake Updater Samples (Stage2):
+
+Easy2ConvertUpdater - 27262f4bf8096f04e53309d4ce603cfbeb27ed10abdf1c461d3ccb14e012f61e - BLUE TAKIN LTD
+Easy2ConvertUpdater - eb50b5d87e995f76ee66abf90bab7e718b507a69392582c0a97824c64ab9fbe9 - BLUE TAKIN LTD
+Easy2ConvertUpdater - 2afca4c7503f5f66dadd5b9ff434dac453e42419fb4e47ceae8f65217a4dfc78 - Not Signed
+Easy2ConvertUpdater - 2c2257e2150547c9f761293dfd71d737f17bbbb07de2501301608b79e7810423 - Not Signed
+Easy2ConvertUpdater - 4e99dd6c02fd07e62442f79d0cd6b8951b5703bf65b4b662acef4695683761be - Not Signed
+Easy2ConvertUpdater - b6a60667f9a84290453d5c85243e9ff6787291e59f3f9a55f1d1fc5597e75619 - Not Signed
+Easy2ConvertUpdater - be42b1380f7e6ea7dab842f0702d8984d7eba16822d5ac9fbd72cad84321e9ed - Not Signed
+PDFSkills_Updater   - 186aa2c281ca7bb699ce0b48240b7559a9ac5b0ba260fb78b81ec53249548f62 - BLACK INDIGO LTD
+PDFSkills_Updater   - 585ad403c58d3bc36d1e6cdf00261832170862636de3607d9171c2c26379167a - BLACK INDIGO LTD
+PDFSkills_Updater   - 5237739b1185fb0ed248004c418ece0427483d12d847fa934640314cff675173 - Not Signed
+PDFSkills_Updater   - c5873ca4103b5ab92fa9fcc618d99e72f001c55a540d0a8ab7c59681f76571c8 - Not Signed
+PDFSkills_Updater   - ff0024d7e03c225c880fc18466da6ec55a694d4964746ba8701ad2a8093e3685 - Not Signed
+Update              - cd1ec9cc603511e0c3b92cbf27ecc91c8f99824246617e759d06b7f7b3e05d54 - Not Signed
+Update              - c30d514b84fc5966ac118e9ecd0b2ab302c8a839b84e5cb385e88ec8226e958e - RED ROOT LTD
+UpdateRetreiver     - 09c2af472ab86b62a702e94a39df2bef09205f4249ed871cbeece751c1e7ef4f - AMARYLLIS SIGNAL LTD
+UpdateRetreiver     - 0edd3de73a63f65b68cff15ae32ea224c023d1339de9fb95046b0fbf17c8d1a5 - AMARYLLIS SIGNAL LTD
+UpdateRetreiver     - 64954b00681201ce5bbb21bcb22d781076f3abf9211b40aaf717f6dc04e0beeb - AMARYLLIS SIGNAL LTD
+UpdateRetreiver     - 6bf2cc4e9d9901541214d7efc8bb8bb24ef5bddc238598333c843e421c042c6b - AMARYLLIS SIGNAL LTD
+UpdateRetreiver     - 3e1cfcebae5f0b740bc6f113b9d964391ec79264489c162ae34573b99ff05cce - Not Signed
+UpdateRetreiver     - 5b4861baeb563875c99614bd6586a9e3b1bd2fef835afffa03210e86eeb6c775 - Not Signed
+UpdateRetreiver     - 5df4db88b1bc7b0cfb77681d09fb24385df1cef16842dda42e14c45f118f3822 - Not Signed
+UpdateRetreiver     - ad52af125f7cc371294caff8e9c0febe9454fc1292fb08c70126becd5136901f - Not Signed
+UpdateRetreiver     - af1ee2e44b6ea66716be2e03cebef7e058532491ddd0aba647dffdc6ca80599d - Not Signed
+Updater             - 2f6743fab6bf8d6e34ee16ec91a82b5bdfd21330895489e75c279a459a88178c - KNAF TCHELET LTD
+Updater             - 2ecbf92a5f8dc19a1482649b496c2fe35e25093ce4306c3daa58d8d10bdd9cfb - LIGHTNER TOK LTD
+Updater             - cbdfe04b8f754e5e6150936ee604f0a478b79c6d0466ee155775ead575adea90 - LIGHTNER TOK LTD
+Updater             - 55707c154b4986836e48c4fd9cc2e60e9dcf1bb695f25c8920f8f3e76608a7b1 - Not Signed
+Updater             - 58df743e98b26fa6432e75546fda6c1902d93f13bca10386c609315647d84539 - Not Signed
+Updater             - ae906414c95ff28e657722ea382ed8c1be88a770e75811cc928c864757a8341f - Not Signed
+Updater             - df370071d02db86c7d2d3750266203cbc15f9b95e01fe7ee028df47cd3824ba1 - Not Signed
+
+
+Domains:
+
+goatpdf[.]com
+pdfusionapp[.]com
+thisilient[.]com
+flcnclient[.]com
+banifuri[.]com
+skillcli[.]com
+chrialletworton[.]com
+climatcon[.]com
+pdfskillspro[.]com
+confetly[.]com
+dleyd[.]com
+dlflacapp[.]com
+clientfld[.]com
+lakienti[.]com
+startbriefme[.]com
+keyguardai[.]com
+pdfskillsapp[.]com
+zipthisapp[.]com
