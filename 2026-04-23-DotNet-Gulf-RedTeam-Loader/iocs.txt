@@ -1,0 +1,4 @@
+5d784d3ca02ab0015b028f34aa54bc8c50db39f9671dc787bc2a84f0987043b2 (first seen: 2026-04-03) → lure: Saudi Ministry of Finance
+e85616b2d9c717eb99269c441a1c51822d4e817ecb421426e33f63357760ec2e (first seen: 2025-10-09) → lure: Saudi  Tawuniyah Insurance
+6795b2aec2a3771f6cc02ca11c8f598ce96cea2d11fc5a7c797935b1b7039e19 (first seen: 2025-08-12) → lure: Kuwait Fire Service Directorate
+048ffb71a1e5abfd6b905b7a4a5171eabe560948963a8c0d6aa14a40d0f6b255 (first seen: 2025-05-21) → lure: Saudi Aramco
