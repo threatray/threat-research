@@ -4,7 +4,7 @@ rule VeilStealer
         author       = "Threatray"
         description  = "VeilStealer - Go-based infostealer (Discord/browser/crypto-wallet/AI-key theft, based on the 'equilotl' Vencord-installer fork)."
         reference    = "https://reports.threatray.com/68ce7670-8dbc-4039-ae18-dc57b8886ada"
-	license      = "Detection Rule License (DRL) 1.1"
+        license      = "Detection Rule License (DRL) 1.1"
         date         = "2026-07-16"
         family       = "VeilStealer"
         hash1        = "b545d32cea056346a19985cad082fe920f5114ae8eade2417e48ad3fae43e33b"
