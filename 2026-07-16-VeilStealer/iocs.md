@@ -23,4 +23,4 @@
 | `VEIL_RUN=1`                                                 | Env variable | Execution gate                                               |
 | `taskkill /f /im discord.exe`                                | Command      | Kills Discord before app.asar patching                       |
 | `taskkill /f /im discordptb.exe`                             | Command      | Kills Discord PTB before app.asar patching                   |
-| `https://canary.discord.com/api/webhooks/1520964300800524308/cE5JLPnfpZWgawu818OCEcmOxZ4xblE0GXqMawHb28u2FXvPJzlcaNSky4CVJPBraDbI` | URL          | Discord webhook C2 (exfiltration)                            |
+| `hxxps://canary[.]discord.com/api/webhooks/1520964300800524308/cE5JLPnfpZWgawu818OCEcmOxZ4xblE0GXqMawHb28u2FXvPJzlcaNSky4CVJPBraDbI` | URL          | Discord webhook C2 (exfiltration)                            |
